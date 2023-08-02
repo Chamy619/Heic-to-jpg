@@ -1,0 +1,24 @@
+{
+  "name": "heic-to-jpg",
+  "version": "1.0.0",
+  "description": "Heic 파일을 jpg 파일로 변환하는 프로그램",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamy619/Heic-to-jpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamy619/Heic-to-jpg/issues"
+  },
+  "homepage": "https://github.com/Chamy619/Heic-to-jpg#readme",
+  "dependencies": {
+    "heic-convert": "^1.2.4"
+  }
+}
